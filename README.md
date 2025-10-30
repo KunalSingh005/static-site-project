@@ -34,15 +34,13 @@ To deploy any local changes to the website:
 
 1.  Make changes to files inside the `my-static-site` folder.
 2.  Run the deployment script:
+3.  
+    ``bash
+    ./deploy.sh
+    ```
 
 ## Project Source
 
 This project was completed as part of the backend developer roadmap from roadmap.sh.
 
 **Project Page URL:** [https://roadmap.sh/projects/static-site-server](https://roadmap.sh/projects/static-site-server)
-
-
-
-    ```bash
-    ./deploy.sh
-    ```
