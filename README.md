@@ -9,7 +9,6 @@ Deployment is automated using `rsync` and a simple Bash script (`deploy.sh`).
 ## Live Site URL
 
 **The static site is live at:** `http://16.171.90.89/`
-*(Note: Replace `YOUR_ELASTIC_IP` with the server's public IP)*
 
 ---
 
