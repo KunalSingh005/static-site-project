@@ -9,7 +9,6 @@ Deployment is automated using `rsync` and a simple Bash script (`deploy.sh`).
 ## Live Site URL
 
 **The static site is live at:** `http://16.171.90.89/`
-
 ---
 
 ## Steps Taken
@@ -34,8 +33,7 @@ To deploy any local changes to the website:
 
 1.  Make changes to files inside the `my-static-site` folder.
 2.  Run the deployment script:
-3.  
-    ``bash
+    ```bash
     ./deploy.sh
     ```
 
